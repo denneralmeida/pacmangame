@@ -10,10 +10,10 @@ coletar todos os pontos no tempo da fase.
 
 ### Mais informações
 
-Pac-Man: Personagem amarelo circular, enquanto está comendo é um circulo com menos 25% (menos uma fatia).
-Pac-Dots: Pontos amarelos coletados durante o jogos.
-Cenario: Bloco de muro em que o pac-man não pode ultrapassar.
-Contador: Placar de pontos acumulados.
-Temporizador: Placar de tempo marcando o tempo restante da fase.
+ - Pac-Man: Personagem amarelo circular, enquanto está comendo é um circulo com menos 25% (menos uma fatia).
+ - Pac-Dots: Pontos amarelos coletados durante o jogos.
+ - Cenario: Bloco de muro em que o pac-man não pode ultrapassar.
+ - Contador: Placar de pontos acumulados.
+ - Temporizador: Placar de tempo marcando o tempo restante da fase.
 
 ### Imagens
