@@ -10,15 +10,10 @@ coletar todos os pontos no tempo da fase.
 
 ### Mais informações
 
-Pac-Man: Pe### Estágio
-- [x] Entregar Glossario
-- [x] Entregar Documento de Visão ***falta fazer***
-- [x] Entregar Diagrama de Caso de Uso
-- [x] Entregar Pedido do Investidor
-- [x] Entregar Plano de Estagiorsonagem amarelo (Bola ou boca enquanto está comendo)
-Pac-Dots: Pontos amarelos coletados durante o jogos
+Pac-Man: Personagem amarelo circular, enquanto está comendo é um circulo com menos 25% (menos uma fatia).
+Pac-Dots: Pontos amarelos coletados durante o jogos.
 Cenario: Bloco de muro em que o pac-man não pode ultrapassar.
-Contador: Placar de pontos acumulados
-Temporizador: Placar de tempo marcando o tempo restante da fase
+Contador: Placar de pontos acumulados.
+Temporizador: Placar de tempo marcando o tempo restante da fase.
 
 ### Imagens
